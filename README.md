@@ -45,7 +45,7 @@ cd Linear-Regression-Prediction
 3. Run the FastAPI application using uvicorn:
 
 ```bash
-uvicorn Linear-Regression-Prediction:app --reload
+uvicorn linearModelAPI:app --reload
 ```
 
 4. Once the server is running, you can access the endpoints in your browser or using tools like `curl` or Postman.
@@ -58,5 +58,5 @@ uvicorn Linear-Regression-Prediction:app --reload
 The repository includes test cases to ensure the functionality of the endpoints. To run the tests, execute the following command:
 
 ```bash
-python Linear-Regression-Prediction.py
+python linearModelAPI.py
 ```
