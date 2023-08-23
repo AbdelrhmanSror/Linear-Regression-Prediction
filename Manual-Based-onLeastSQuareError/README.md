@@ -95,6 +95,5 @@ If you're interested in an alternative implementation of the linear regression t
 
 ---
 
-Feel free to explore both implementations and choose the one that best suits your needs. If you have any questions or encounter any issues, don't hesitate to reach out to the project contributors.
-
+Feel free to explore both implementations and choose the one that best suits your needs. If you have any questions or encounter any issues, don't hesitate to reach out.
 ---
