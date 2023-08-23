@@ -30,7 +30,7 @@ The core functionality of the application lies in predicting the target variable
 3. Run the FastAPI application using the following command:
 
    ```bash
-   uvicorn main:app --host 0.0.0.0 --port 8000
+   uvicorn ManualLinearRegression:app --host 0.0.0.0 --port 8000
    ```
 
 4. Access the Swagger documentation and interact with the endpoints:
