@@ -1,7 +1,4 @@
 # Linear-Regression-Prediction
-```markdown
-# FastAPI Linear Regression API
-
 This repository contains a FastAPI-based API that implements a simple linear regression model for predicting a target variable based on input features.
 
 ## Description
